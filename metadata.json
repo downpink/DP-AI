@@ -1,0 +1,5 @@
+{
+  "name": "AI Background Remover",
+  "description": "A powerful and easy-to-use AI tool to automatically remove the background from any image. Upload your photo and get a transparent background in seconds.",
+  "requestFramePermissions": []
+}
